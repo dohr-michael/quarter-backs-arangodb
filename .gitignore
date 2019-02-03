@@ -1,0 +1,16 @@
+## IDEA
+/.idea/
+
+## GOLANG
+/vendor/
+vendor.tar.gz
+gin-bin
+.sfeir-nosql-presentation.yml
+
+## Project
+.tmp/
+*.zip
+*.exe
+
+## Proto
+generated/*.pb.go
